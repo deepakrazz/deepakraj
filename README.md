@@ -1,10 +1,8 @@
-[![MasterHead](https://knowledge.wharton.upenn.edu/wp-content/uploads/2016/09/Leveraging-Customer-Analytics-Featured-Image-600x440.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Raj</h1>
 <h3 align="center">A passionate Data Analytst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakrazz&label=Profile%20views&color=0e75b6&style=flat" alt="deepakrazz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakrazz" alt="deepakrazz" /></a> </p>
 
 - 📫 How to reach me **deepakraj11298@gmail.com**
 
